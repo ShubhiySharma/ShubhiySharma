@@ -41,3 +41,10 @@ Machine Learning Deep Learning Generative AI LLMs RAG AI Agents
 Development
 
 Java Backend Development REST APIs Full-Stack Development Git GitHub
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhiySharmaE&show_icons=true&theme=dark" height="180"/>
+</p>
