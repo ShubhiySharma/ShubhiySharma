@@ -46,5 +46,10 @@ Java Backend Development REST APIs Full-Stack Development Git GitHub
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhiySharmaE&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhiySharma&show_icons=true&theme=dark" height="180"/>
+</p>
+<h2>🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhiySharma&theme=dark" />
 </p>
