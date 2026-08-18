@@ -7,11 +7,6 @@
 <p align="center">
   <i>AI/ML • C++ • Java • Python • DSA • Backend Development</i>
 </p>
-<h1 align="center">
-  Hi
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  , I'm Shubhi
-</h1>
 <p align="center">
   <img src="./assets/68caf119a7be25f3d99b5647b19bc9a3.gif" width="500">
 </p>
