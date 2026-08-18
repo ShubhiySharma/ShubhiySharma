@@ -14,6 +14,15 @@
   📫 Reach me at
   <a href="mailto:shubhialways@gmail.com">shubhialways@gmail.com</a>
 </p>
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3500&pause=2500&color=58C7FF&center=true&vCenter=true&width=700&height=60&lines=Shubhi" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=6000&pause=3500&color=F75C9A&center=true&vCenter=true&width=700&height=60&lines=Getting+lost+is+another+way+of+Exploring" />
+
+</p>
 🤖 Building AI/ML projects, intelligent systems, automation, AI agents, and full-stack applications.
 
 🧩 Sharpening Data Structures & Algorithms, C++, Java, Machine Learning, Deep Learning, and Generative AI.
@@ -42,9 +51,7 @@ Development
 
 Java Backend Development REST APIs Full-Stack Development Git GitHub
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=100&lines=Shubhi;Getting+lost+is+another+way+of+Exploring" />
-</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
