@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   📫 Reach me at
-  <a href="mailto:shubhialways@gmail.com">YOUR_EMAIL@gmail.com</a>
+  <a href="mailto:shubhialways@gmail.com">shubhialways@gmail.com</a>
 </p>
 🤖 Building AI/ML projects, intelligent systems, automation, AI agents, and full-stack applications.
 
