@@ -1,23 +1,12 @@
-👋 Hi, I'm Shubhi
 
-AI/ML Student • Programmer • Builder • Problem Solver
-
-I like turning ideas into working systems, solving problems, and occasionally turning simple problems into complicated ones just for the learning experience.
-
-I don't just want to learn technologies.
-
-I want to build with them.
-
-🧠 About Me
-
-I'm a Computer Science student specializing in AI/ML, with a growing interest in the bigger picture of software engineering.
-
-I enjoy working across different layers of technology — from writing C++ and Java for problem solving and DSA, to building with Python, machine learning, AI systems, Java backend development, APIs, and full-stack applications.
-
-I'm especially interested in the space where software engineering meets intelligent systems.
-
-Currently...
-
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  , I'm Shubhi
+</h1>
+<p align="center">
+  <i>AI/ML • C++ • Java • Python • DSA • Backend Development</i>
+</p>
 🤖 Building AI/ML projects, intelligent systems, automation, AI agents, and full-stack applications.
 
 🧩 Sharpening Data Structures & Algorithms, C++, Java, Machine Learning, Deep Learning, and Generative AI.
