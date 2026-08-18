@@ -24,7 +24,11 @@
 🛠️ What I Work With
 
 Languages
+<h2>🛠️ Skills</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,spring,pytorch,tensorflow,opencv,git,github,vscode,idea" />
+</p>
 C++ Java Python
 
 AI / ML
