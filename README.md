@@ -7,6 +7,14 @@
 <p align="center">
   <i>AI/ML • C++ • Java • Python • DSA • Backend Development</i>
 </p>
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  , I'm Shubhi
+</h1>
+<p align="center">
+  <img src="./assets/coding.gif" width="500">
+</p>
 <p align="center">
   📫 Reach me at
   <a href="mailto:shubhialways@gmail.com">shubhialways@gmail.com</a>
