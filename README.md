@@ -8,7 +8,7 @@
   <i>AI/ML • C++ • Java • Python • DSA • Backend Development</i>
 </p>
 <p align="center">
-  <img src="./assets/68caf119a7be25f3d99b5647b19bc9a3.gif" width="500">
+  <img src="./68caf119a7be25f3d99b5647b19bc9a3.gif" width="500">
 </p>
 <p align="center">
   📫 Reach me at
