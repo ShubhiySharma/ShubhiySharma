@@ -7,6 +7,10 @@
 <p align="center">
   <i>AI/ML • C++ • Java • Python • DSA • Backend Development</i>
 </p>
+<p align="center">
+  📫 Reach me at
+  <a href="mailto:shubhialways@gmail.com">YOUR_EMAIL@gmail.com</a>
+</p>
 🤖 Building AI/ML projects, intelligent systems, automation, AI agents, and full-stack applications.
 
 🧩 Sharpening Data Structures & Algorithms, C++, Java, Machine Learning, Deep Learning, and Generative AI.
